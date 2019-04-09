@@ -11,9 +11,9 @@
 Programa que determine un monto aproximado a pagar de Impuesto sobre la Renta (ISLR) en base a la unida tributaria (UT) del país.
 
 ## ***Instrucciones***
-1. Descarga el repositorio, en el encontaras el archivo ***ISLRSystem***.
+1. Descarga el repositorio, en el encontaras el archivo ***ISLR-system***.
 2. Ejecuta tu IDE deseado, se sugiere [Dev C++](https://sourceforge.net/projects/orwelldevcpp/).
-3. Abre el archivo ***ISLRSystem*** anteriormente mencionado con el IDE.
+3. Abre el archivo ***ISLR-system*** anteriormente mencionado con el IDE.
 4. Compila y corre el programa.
 5. Sigue las instrucciones indicadas en el programa para la correcta operación del mismo.
 
@@ -70,7 +70,6 @@ Proyecto realizado por
 [MIT](https://github.com/MarcosDeAndrade/PacMan/blob/master/LICENSE)
 
 &nbsp;
-
 <p align="center">✌️</p>
 <p align="center">
 <sub><sup>A project by <a href="https://github.com/MarcosDeAndrade">Marcos De Andrade</a><br>Copyright (c) 2018</sup></sub></p>
