@@ -72,6 +72,6 @@ Proyecto realizado por
 &nbsp;
 <p align="center">✌️</p>
 <p align="center">
-<sub><sup>A project by <a href="https://github.com/MarcosDeAndrade">Marcos De Andrade</a><br>Copyright (c) 2018</sup></sub></p>
+<sub><sup>A project by <a href="https://github.com/MarcosDeAndrade">Marcos De Andrade</a><br>2018</sup></sub></p>
 
  
